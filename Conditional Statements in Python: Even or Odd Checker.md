@@ -14,13 +14,15 @@ To write a Python program to check whether the given number is **even** or **odd
 ## 🧾 Program
 ```
 a=int(input())
-if a%2==0:
-    print("EVEN")
+
+if(a==145):
+  print("Number is a strong number")
 else:
-    print("ODD")
+  print("Number is NOT a strong number")
+
 ```
 ## Output
-![Screenshot (196)](https://github.com/user-attachments/assets/995e65ff-d306-4dd8-aa18-0de60b43c298)
+![exp1 ](https://github.com/user-attachments/assets/b9875a43-4404-488f-a6cb-25160ac86495)
 
 ## Result
-This expected output achieved
+The expected output is achieved.
