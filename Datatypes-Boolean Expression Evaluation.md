@@ -16,14 +16,17 @@ To write a Python program that evaluates and prints the results of boolean and a
 
 ## 💻 Program
 ```
-print("a is True")
-print("b is True")
-print ("c: 6")
-print("d: 9")
+a=int(input())
+b=int(input())
+if(a==b):
+    print('True')
+else:
+    print('False')
 
 ```
+
 ## Output
-![Screenshot (199)](https://github.com/user-attachments/assets/f4714f81-b379-40c1-81f7-e96c4d77da36)
+![exp2-pdf](https://github.com/user-attachments/assets/13ce4e5d-dc71-48d0-a4b5-7b8c9f96b239)
 
 ## Result
-The expected output is achieved
+The expected ouput is achieved
